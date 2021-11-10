@@ -43,18 +43,18 @@ The data given below contains the information about past loan applicants and whe
 - pandas
 - Numpy
 - Matplotlib
-
+- Seaborn
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [this tutorial](https://learn.upgrad.com/course/2201/segment/13563/83988/250881/1312012).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@vivekmoningi] - feel free to contact me!
 
 
 <!-- Optional -->
